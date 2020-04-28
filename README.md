@@ -7,4 +7,5 @@
 
 * Java
 * PHP
+* Scala
 * JS
